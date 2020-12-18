@@ -1,1 +1,1 @@
-worker: python tiktokbot.py
+worker: python3.7 tiktokbot.py
